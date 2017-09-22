@@ -9,7 +9,7 @@ import java.net.SocketException;
 import java.util.Enumeration;
 
 public class NetWorkUtils {
-
+//测试---------------------
 
     public String getLocalIpAddress() {
         try {
